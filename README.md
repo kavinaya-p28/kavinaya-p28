@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="./assets/profile.png" width="155" alt="Kavinaya P Profile Photo"/>
+<img src="profile.png" width="155" alt="Kavinaya P Profile Photo"/>
 
 <br/>
 
