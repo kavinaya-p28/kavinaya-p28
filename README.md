@@ -9,7 +9,15 @@
 
 <!-- HERO BACKGROUND -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,50:061B2E,100:76B900&height=200&section=header&text=KAVINAYA%20P&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Electrical%20%26%20Electronics%20Engineering%20Graduate%20%7C%202025&descAlignY=60&animation=fadeIn" width="100%" alt="Portfolio Header"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=76B900&height=180&section=header&text=KAVINAYA%20P&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" alt="Kavinaya P - Electrical and Electronics Engineer"/>
+
+<h3>Electrical & Electronics Engineering Graduate | 2025</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=76B900&center=true&vCenter=true&width=600&lines=Electrical+Engineering;Embedded+Systems+%7C+IoT;EV+Technology+%7C+Industrial+Automation" alt="Animated skills"/>
+
+</div>
 
 <br/>
 
