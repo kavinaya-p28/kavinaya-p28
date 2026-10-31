@@ -32,10 +32,10 @@
 <a href="https://www.github/kavinaya-p28">
 <img src="https://img.shields.io/badge/GitHub-Profile-76B900?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/kavinaya-p">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="YOUR_RESUME_URL">
+<a href="https://drive.google.com/file/d/1hhBBZX6V3E3Dw7RJVY7KO5kkOhBrlzc_/view?usp=drive_link">
 <img src="https://img.shields.io/badge/Resume-Download-76B900?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
