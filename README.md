@@ -1,11 +1,23 @@
 
 <div align="center">
 
-# Hi, I'm Kavinaya P 👋
+# 👋 Hi, I'm Kavinaya P
 
 ### Electrical & Electronics Engineering Graduate | 2025
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Electrical+%26+Electronics+Engineer;Core+EEE+%7C+Electronics+%7C+Embedded+Systems;Aspiring+Electrical+Design+Engineer;Exploring+Industrial+Automation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Electrical+%26+Electronics+Engineer;Embedded+Systems+%7C+IoT+%7C+Electronics;Electrical+Design+%7C+Power+Systems;EV+Safety+%7C+Industrial+Automation;Open+to+Fresher+Engineering+Opportunities" alt="Typing SVG" />
+
+<p>
+<a href="https://github.com/KavinayaP">
+<img src="https://img.shields.io/badge/GitHub-KavinayaP-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://linkedin.com/in/kavinaya-p">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:kavinayacgm04@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
@@ -13,73 +25,177 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 B.E. Electrical and Electronics Engineering graduate
-- ⚡ Interested in Electrical and Electronics Engineering
-- 🔌 Exploring Electrical Design, Power Systems and Embedded Systems
-- 💻 Learning programming and software development
-- 🚀 Building engineering projects to improve my practical knowledge
-- 🎯 Looking for entry-level engineering opportunities
+I am an Electrical and Electronics Engineering graduate from Government College of Engineering, Dharmapuri.
+
+I have internship experience in Embedded Systems, AI, IoT, and Machine Learning. I am interested in applying my engineering knowledge to practical electrical, electronics, and embedded system applications.
+
+I enjoy exploring engineering technologies, developing projects, and continuously improving my technical skills.
+
+- 🎓 B.E. Electrical and Electronics Engineering — 2025
+- ⚡ Interested in Core Electrical and Electronics Engineering
+- 🔌 Exploring Embedded Systems, IoT, and EV Technologies
+- 💻 Interested in Electrical Design, Testing, and Industrial Automation
+- 🚀 Building practical engineering projects
+- 🎯 Open to entry-level engineering opportunities
 
 ---
 
-## ⚡ Areas of Interest
+## 🎓 Education
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Electrical_Engineering-007ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Electronics-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power_Systems-008577?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Embedded_Systems-6A5ACD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Industrial_Automation-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Electrical_Testing-008000?style=for-the-badge"/>
+**Bachelor of Engineering – Electrical and Electronics Engineering**
+
+Government College of Engineering, Dharmapuri
+
+2021 – 2025
+
+---
+
+## 💼 Internship Experience
+
+### 1. Embedded Systems with AI and IoT
+
+**NSIC Technical Service Centre, Chennai**
+
+July 2024 – August 2024
+
+- Gained hands-on experience in microcontroller programming using Arduino and Raspberry Pi.
+- Worked with real-time embedded applications.
+- Built and tested circuits using Proteus.
+- Performed circuit debugging using Arduino IDE.
+- Developed understanding of power supply circuits, embedded design, and system integration.
+
+### 2. Data Science, AI and ML
+
+**AICTE Edunet Foundation – GCE Dharmapuri**
+
+February 2025 – March 2025
+
+- Built machine learning models for classification and prediction using Python.
+- Implemented Logistic Regression, Decision Trees, and Random Forest.
+- Performed data analysis and visualization using NumPy, Pandas, Matplotlib, and Seaborn.
+- Completed guided industry-based analytical assignments.
+
+---
+
+## ⚡ Technical Skills
+
+### Electrical & Electronics Engineering
+
+<p>
+<img src="https://img.shields.io/badge/Electrical_Circuits-007ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Electrical_Machines-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_Electronics-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Control_Systems-008577?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Basic_Electronics-555555?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sensors-00A98F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IoT-008080?style=for-the-badge"/>
+</p>
+
+### Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
+
+### Engineering Tools
+
+<p>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Proteus-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+### AI & Data Science
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 Featured Projects
 
-### Electrical & Electronics
+### ⚡ 1. Avoid Fire Accidents in Electric Vehicles – Multi-Fault Detection
 
-<p>
-<img src="https://img.shields.io/badge/Electrical_Circuits-007ACC?style=flat-square"/>
-<img src="https://img.shields.io/badge/Electrical_Machines-FF9800?style=flat-square"/>
-<img src="https://img.shields.io/badge/Power_Systems-008577?style=flat-square"/>
-<img src="https://img.shields.io/badge/Basic_Electronics-6A5ACD?style=flat-square"/>
-<img src="https://img.shields.io/badge/Electrical_Measurements-555555?style=flat-square"/>
-</p>
+**Technologies:** Arduino UNO, LM35, MQ Sensor, GSM, Proteus, Python, ThingSpeak
 
-### Programming & Development
+- Designed an IoT-based EV safety system to detect multiple faults.
+- Focused on overheating, gas leakage, and voltage drop detection.
+- Implemented AI-based fault prediction logic for early anomaly detection.
+- Developed a prototype demonstrating early detection of potential EV hazards.
+- Explored sensor interfacing and fault detection applications in EV safety.
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
+### 💧 2. Water Quality Analysis Using AI
 
-### Tools & Technologies
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Google Colab
 
-<p>
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git- F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
+- Developed a machine learning model to analyze water contamination levels.
+- Used chemical and physical water parameters for prediction.
+- Performed data cleaning, normalization, feature engineering, and outlier handling.
+- Applied machine learning techniques to predict water quality categories.
+- Explored AI applications in environmental monitoring.
+
+### 🌍 3. Seismic Hazard Assessment
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
+
+- Developed a machine learning model to predict seismic hazard intensity.
+- Performed exploratory data analysis using real datasets.
+- Applied data visualization and hyperparameter tuning.
+- Explored data-driven approaches for hazard assessment.
 
 ---
 
-## 🚀 Projects
+## 📚 Currently Learning
 
-### 1. Global Travel Insights Dashboard
-- Created interactive dashboards using Power BI
-- Analyzed travel and tourism datasets
-- Presented insights using visualizations
+I am continuously developing my engineering knowledge in the following areas:
 
-### 2. Electrical Engineering Projects
-- Electrical circuit analysis
-- Electrical machine performance studies
-- Electronics and embedded system projects
+### Core Electrical
+
+- Electrical Circuit Analysis
+- Electrical Machines
+- Power Systems
+- Power Electronics
+- Electrical Measurements
+- Electrical Testing and Troubleshooting
+
+### Electrical Design & Automation
+
+- Electrical Design and Drafting
+- AutoCAD Electrical
+- PLC Fundamentals
+- SCADA Fundamentals
+- Industrial Automation
+- MATLAB / Simulink Applications
+
+### Electronics & Embedded Systems
+
+- Embedded C Programming
+- Microcontroller Programming
+- Sensor Interfacing
+- UART, SPI, and I2C
+- PCB Design Fundamentals
+- Embedded System Debugging
+
+---
+
+## 🏅 Certifications & Achievements
+
+- NPTEL – Control Systems
+- NPTEL – Control Engineering
+- NPTEL – Embedded System Design
+- Electric Vehicle Design Workshop – GCE Dharmapuri
+- Embedded Systems with AI and IoT – NSIC
+- Project Expo – EV Fault Detection System, PSV College
 
 ---
 
@@ -87,32 +203,56 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=KavinayaP&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinayaP&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=KavinayaP&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
+## 🎯 Career Interests
+
+I am interested in entry-level opportunities in:
+
+- Graduate Engineer Trainee (GET)
+- Electrical Engineer
+- Electronics Engineer
+- Electrical Design Engineer
+- Electrical Testing Engineer
+- Embedded Systems Engineer
+- EV Electrical Engineer
+- Industrial Automation Engineer
+- Electrical Maintenance Engineer
+
+---
+
 ## 🌐 Connect With Me
 
-<p align="center">
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<div align="center">
+
+<a href="https://github.com/KavinayaP">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<a href="https://linkedin.com/in/kavinaya-p">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-</p>
+
+<a href="mailto:kavinayacgm04@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=100&section=footer"/>
+### ✨ Learning | Building | Growing ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=120&section=footer" alt="Animated Footer"/>
 
 </div>
