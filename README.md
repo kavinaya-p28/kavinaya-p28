@@ -21,7 +21,7 @@
 
 <br/>
 
-<a href="YOUR_GITHUB_PROFILE_URL">
+<a href="https://www.github/kavinaya-p28">
 <img src="https://img.shields.io/badge/GitHub-Profile-76B900?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="YOUR_LINKEDIN_URL">
